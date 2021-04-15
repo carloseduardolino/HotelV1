@@ -1,0 +1,2 @@
+# HotelV1
+Hotel é um sistema criado em PHP, totalmente WEB e com banco de dados MySQL. Com ele é possível gerenciar hospedagens e reservas, todas as funções básicas de um hotel. Pode ser instalado de forma ONLINE, ou seja, deixar o sistema diretamente na internet ou de modo OFFLINE, simulando um servidor web local ele pode funcionar em um computador sem internet ou em uma intranet. Também possui suporte a geração e controle de boletos bancários.
